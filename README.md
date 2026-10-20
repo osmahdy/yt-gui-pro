@@ -42,9 +42,9 @@ source myenv/bin/activate
 
 ```
 pip install -r requirements.txt
-
+```
 To install the required `customtkinter` library and any other dependencies listed in the project, run:
-   
+```
    pip install -r requirements.txt
 ```
 ## 🖥️ Desktop Integration (Kali Linux Application Menu)
