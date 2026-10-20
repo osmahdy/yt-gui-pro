@@ -38,15 +38,12 @@ python3 -m venv myenv
 source myenv/bin/activate
 ```
 
-**3- Install required dependencies:**
+**3- Install required  `customtkinter` library:**
 
 ```
 pip install -r requirements.txt
 ```
-To install the required `customtkinter` library and any other dependencies listed in the project, run:
-```
-   pip install -r requirements.txt
-```
+
 ## 🖥️ Desktop Integration (Kali Linux Application Menu)
 
 To add the application to your system application menu for single-click launching without using the terminal:
