@@ -52,9 +52,9 @@ class YouTubeDownloaderApp(ctk.CTk):
         self.video_checkboxes = []
 
         self.favorite_paths = [
-            "/home/black/Downloads",
-            "/home/black/Storage/UNIVERSITY",
-            "/home/black/Desktop"
+            "/home/kali/Downloads",
+            "/home/kali",
+            "/home/kali/Desktop"
         ]
         
         # Top Bar
