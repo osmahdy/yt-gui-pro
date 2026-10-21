@@ -27,9 +27,10 @@ sudo apt install python3 python3-pip ffmpeg -y
 ## ⚙️ Installation Guide
 
 **1- Clone the repository:**
-
+```
 git clone [https://github.com/osmahdy/yt-gui-pro.git](https://github.com/osmahdy/yt-gui-pro.git)
 cd yt-gui-pro
+```
 
 **2- Create and activate a Python Virtual Environment:**
 
